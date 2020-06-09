@@ -1,0 +1,9 @@
+<aura:component implements="flexipage:availableForAllPageTypes,force:hasRecordId" access="global">
+    
+    <div class="slds-p-around_small">
+    <h1 class="red">I am in Lightning Component</h1>
+    <P>I am inside Paragraph</P>
+    <div>I am inside Div</div>
+    <span>This is span</span>
+	</div>
+</aura:component>
